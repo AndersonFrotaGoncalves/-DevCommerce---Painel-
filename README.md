@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação de dashboard de vendas, com visual moderno, responsivo e interativo.
 
-<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" />
+<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
@@ -11,10 +11,10 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação
 - ✅ Exibição de vendas, produtos, clientes e lucro
 - ✅ Gráfico de vendas mensais com **Chart.js**
 - ✅ Tabela de vendas filtrável por categoria
-- ✅ Animações de entrada com **ScrollReveal.js**
+- ✅ Animações com **ScrollReveal.js**
 - ✅ Modo claro/escuro com botão toggle
-- ✅ Tela de login e simulação de logout
 - ✅ Layout 100% responsivo
+- ✅ Tela de login simples
 
 ---
 
@@ -30,15 +30,14 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação
 
 ## 📸 Layout Responsivo
 
-> *(Adicione aqui o GIF ou nova imagem quando estiver disponível)*
+> Imagem do layout exibido com responsividade em diferentes telas
+
+<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Mockup responsivo DevCommerce" style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
-## 🚀 Como executar
+## 🚀 Como Executar
 
-1. Clone o repositório
-2. Abra o `index.html` no navegador
-3. O projeto funciona 100% local (sem backend)
-
-```bash
-git clone https://github.com/AndersonGFrota/DevCommerce.git
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/AndersonGFrota/DevCommerce.git
