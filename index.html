@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevCommerce | Dashboard</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <h2>DevCommerce</h2>
+            <nav>
+                <a href="#" class="active">📊 Dashboard</a>
+                <a href="#">📦 Produtos</a>
+                <a href="#">🧾 Vendas</a>
+                <a href="#">⚙️ Configurações</a>
+            </nav>
+        </aside>
+
+        <div class="main">
+            <header class="header">
+                <h1>DevCommerce</h1>
+                <div class="header-actions">
+                  <button id="toggle-theme">🌓</button>
+                  <button id="logout-btn">Sair</button>
+                </div>
+              </header>
+            
+            <div class="login-page">
+                <form id="login-form">
+                  <h2>Login DevCommerce</h2>
+                  <input type="text" id="user" placeholder="Usuário" required />
+                  <input type="password" id="pass" placeholder="Senha" required />
+                  <button type="submit">Entrar</button>
+                </form>
+              </div>
+              
+
+            <main class="dashboard">
+                <section class="cards">
+                    <div class="card">💰 Vendas: <span id="vendas">0</span></div>
+                    <div class="card">📦 Produtos: <span id="produtos">0</span></div>
+                    <div class="card">👥 Clientes: <span id="clientes">0</span></div>
+                    <div class="card">📊 Lucro: <span id="lucro">0€</span></div>
+                </section>
+            </main>
+
+            <section class="grafico">
+                <canvas id="graficoVendas"></canvas>
+            </section>
+
+            <section class="tabela">
+                <h2>Vendas Recentes</h2>
+                <label for="filtro-categoria">Filtrar por categoria:</label>
+                <select id="filtro-categoria">
+                    <option value="todas">Todas</option>
+                    <option value="Roupas">Roupas</option>
+                    <option value="Tecnologia">Tecnologia</option>
+                    <option value="Utilidades">Utilidades</option>
+                    <option value="Papelaria">Papelaria</option>
+                    <option value="Acessórios">Acessórios</option>
+                </select>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Produto</th>
+                            <th>Categoria</th>
+                            <th>Quantidade</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tabela-vendas">
+                    </tbody>
+                </table>
+            </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
