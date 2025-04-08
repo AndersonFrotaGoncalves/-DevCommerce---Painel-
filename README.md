@@ -32,7 +32,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação
 
 > Visualização do projeto em diferentes dispositivos
 
-img src="assets/mockup 3 tecnologias.png" alt="mockup 3 " style="max-width: 100%; border-radius: 10px;" />
+<img src="assets/mockup 3 tecnologias.png" alt=" projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
