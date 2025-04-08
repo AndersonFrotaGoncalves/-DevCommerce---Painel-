@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação de dashboard de vendas, com visual moderno, responsivo e interativo.
 
-<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
+<img src="assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
