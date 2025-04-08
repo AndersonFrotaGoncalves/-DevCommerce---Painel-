@@ -32,7 +32,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação
 
 > Visualização do projeto em diferentes dispositivos
 
-<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Mockup responsivo DevCommerce" style="max-width: 100%; border-radius: 10px;" />
+img src="assets/mockup 3 tecnologias.png" alt="mockup 3 " style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
