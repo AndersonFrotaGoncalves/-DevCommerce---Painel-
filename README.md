@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação de dashboard de vendas, com visual moderno, responsivo e interativo.
 
-<img src="https://githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/AndersonGFrota/DevCommerce/main/assets/devcommerce-capa.png" alt="Capa do projeto DevCommerce" style="max-width: 100%; border-radius: 10px;" />
 
 ---
 
@@ -41,3 +41,27 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para simular uma aplicação
 1. Clone o repositório:
    ```bash
    git clone https://github.com/AndersonGFrota/DevCommerce.git
+   ```
+
+2. Abra o arquivo `index.html` no seu navegador.
+
+---
+
+## 🌐 Acesse o Projeto Online
+
+🔗 [Clique aqui para visualizar o DevCommerce](https://devcommercepainel.netlify.app)
+
+---
+
+## 👨‍💻 Autor
+
+**Anderson Frota Gonçalves**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andersongfrota/)
+- 💻 [GitHub](https://github.com/AndersonGFrota)
+- 🌐 [Portfólio](https://andersongoncalves.netlify.app)
+- 📧 andersonfrota@outlook.pt
+
+---
+
+> Projeto desenvolvido com fins educacionais e para compor portfólio.
